@@ -1,0 +1,28 @@
+body {
+    background-color: #444;
+}
+
+.button {
+    background-color: #414141;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 5mm;
+}
+
+.title {
+    font-size: 5em;
+    margin: auto;
+    margin-bottom: 5mm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom-width: 2.5mm;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    text-align: center;
+}
+
+.do-not-click {
+    font-size: 5mm;
+    font-family: Arial, Helvetica, sans-serif;
+}
